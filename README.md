@@ -21,7 +21,7 @@
 
 
 🤝 Open to collaborate on :
-- Data Science projects, Machine Learning Engineer projects and AI engineer projects
+- Data Science projects, ML Engineer projects and AI engineer projects
 
 
 📫 How to reach me :
