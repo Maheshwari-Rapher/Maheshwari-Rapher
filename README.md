@@ -3,7 +3,7 @@
 - Interested in solving real-world problems using data and continuosly learning new technologies.
 
 
-🛠️ Skills:
+🛠️ Skills :
 - Python
 - Exploratory data analysis (EDA)
 - Structured query Language (SQL)
